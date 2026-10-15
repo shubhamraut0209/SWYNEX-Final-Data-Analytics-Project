@@ -1,0 +1,6 @@
+order_status,transaction_records,estimated_net_sales_usd,transaction_share_pct
+Delivered,6472,770333.42,54.78
+Shipped,1797,213224.71,15.21
+Pending,1370,161735.49,11.60
+Cancelled,1178,139470.13,9.97
+Returned,997,113263.32,8.44

@@ -1,0 +1,7 @@
+payment_method,transaction_records,estimated_net_sales_usd,transaction_share_pct
+Cash on Delivery,2041,235773.30,17.28
+PayPal,2008,248105.93,17.00
+Credit Card,2000,235287.41,16.93
+Net Banking,1990,240733.94,16.84
+UPI,1897,217535.99,16.06
+Debit Card,1878,220590.51,15.90
