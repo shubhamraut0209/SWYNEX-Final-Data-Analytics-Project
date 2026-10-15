@@ -1,0 +1,18 @@
+{
+  "project": "SWYNEX Task 4 \u2014 Final Analytics Case Study",
+  "dataset_file": "data/ecommerce_retail_transactions_cleaned.csv",
+  "dataset_rows": 11814,
+  "original_columns": 16,
+  "date_start": "2024-01-01",
+  "date_end": "2026-06-30",
+  "metrics": {
+    "estimated_gross_sales_usd": 1500541.86,
+    "estimated_discounts_usd": 102514.78,
+    "estimated_net_sales_usd": 1398027.08,
+    "average_customer_rating_available_only": 3.9,
+    "missing_customer_ratings": 5968,
+    "missing_shipping_city": 491
+  },
+  "dashboard": "dashboard/SWYNEX_Ecommerce_Interactive_Dashboard.html",
+  "case_study": "FINAL_ANALYTICS_CASE_STUDY.md"
+}
